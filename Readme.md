@@ -15,3 +15,7 @@ en una composición que compara sus tamaños con el tamaño de Júpiter.
 En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 otros satélites de Júpiter son Titán , Amaltea y Lisitea.
+
+Júpiter es el planeta más grande del sistema solar y el quinto en orden de lejanía al Sol.
+
+Fuente Wikipedia
